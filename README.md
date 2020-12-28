@@ -1,18 +1,18 @@
 Hey there! I'm Pablo Ferreira. 
 
 👨🏻‍💻 About Me
-🔭   I’m currently learning Angular Application Development
-🤔   Exploring new technologies and developing software solutions and quick hacks.
-🎓   Studying Computer Science, computer programming and Mathematics.
-💼   Back-end developer and front-end web developer.
-🌱   Enthusiast in Data Science.
+🔭   I’m currently learning Angular Application Development </br>
+🤔   Exploring new technologies and developing software solutions and quick hacks. </br>
+🎓   Studying Computer Science, computer programming and Mathematics. </br>
+💼   Back-end developer and front-end web developer. </br>
+🌱   Enthusiast in Data Science. </br>
 
 
-🛠 Tech Stack
-💻  Python | Node 
-🌐  ReactJS | Angular | HTML | CSS | JavaScript | Bootstrap | Django | Flask | Material 
-🛢   MySQL | Firebase | SQL Server | Postgre 
-🔧  Visual Studio code | Git | Angular CLI | 
+🛠 Tech Stack </br>
+💻  Python | Node  </br>
+🌐  ReactJS | Angular | HTML | CSS | JavaScript | Bootstrap | Django | Flask | Material </br>
+🛢   MySQL | Firebase | SQL Server | Postgre </br>
+🔧  Visual Studio code | Git | Angular CLI  </br>
 
 
 
