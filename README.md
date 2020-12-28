@@ -1,16 +1,27 @@
-### Hi there 👋
+Hey there! I'm souvik. 
+GIF
 
-<!--
-**pabloferr92/pabloferr92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻 About Me
+🔭   I’m currently learning Flutter Application Development
+🤔   Exploring new technologies and developing software solutions and quick hacks.
+🎓   Studying Computer Science, computer programming and Mathematics.
+💼   Android developer and front-end web developer.
+🌱   Enthusiast in cyber Security and Artificial Intelligence .
+✍️   Watching Anime and trying out latest design trends as hobbies/side hustles.
+☕   I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+🛠 Tech Stack
+💻   Python | Dart | Java | C++
+🌐   Android | flutter | HTML | CSS | JavaScript | Bootstrap
+🛢   MySQL | Firebase | Xampp
+🔧   Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+🖥   Adobe Xd | Illustrator | Photoshop | OpenShot
 
-Here are some ideas to get you started:
+devSouvik's Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Top Langs
+
+🤝🏻 Connect with Me
+           
+
+⭐️ From devSouvik
