@@ -9,7 +9,7 @@ Hey there! I'm Pablo Ferreira.
 
 
 🛠 Tech Stack
-💻  Python | Node  
+💻  Python | Node 
 🌐  ReactJS | Angular | HTML | CSS | JavaScript | Bootstrap | Django | Flask | Material 
 🛢   MySQL | Firebase | SQL Server | Postgre 
 🔧  Visual Studio code | Git | Angular CLI | 
